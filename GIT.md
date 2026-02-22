@@ -25,9 +25,11 @@ git config --global user.email "tu@correo.com"
 
 ## Configuración del Proyecto (Repositorio)
 
+// git remote add origin URL_DEL_REPOSITORIO_REMOTO
+
 ```
 git init
-// git remote add origin URL_DEL_REPOSITORIO_REMOTO
+
 git remote add origin https://github.com/AlvaroChambi15/backend_api_laravel_angular.git
 ```
 
